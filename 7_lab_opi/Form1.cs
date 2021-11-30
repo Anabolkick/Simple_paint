@@ -194,5 +194,11 @@ namespace _7_lab_opi
         {
             active = Active.Rect;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Graphics graphics = pictureBox1.CreateGraphics();
+            graphics.Clear(Color.White);
+        }
     }
 }

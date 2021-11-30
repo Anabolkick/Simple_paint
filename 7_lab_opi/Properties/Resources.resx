@@ -118,25 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="kisspng-color-wheel-rgb-color-model-color-gradient-complem-5b10870fdcaec1.4397657415278098079039" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\kisspng-color-wheel-rgb-color-model-color-gradient-complem-5b10870fdcaec1.4397657415278098079039.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\maxresdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AaImage105" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\AaImage105.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Draw_1_black_line_svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Draw-1-black-line.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="_1625516_200" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1625516-200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_600px_Black_pencil_svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\600px-Black_pencil.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_400px_Rectangle__plain__svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\400px-Rectangle_(plain).svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_600px_Black_pencil_svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\600px-Black_pencil.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="kisspng-color-wheel-rgb-color-model-color-gradient-complem-5b10870fdcaec1.4397657415278098079039" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-color-wheel-rgb-color-model-color-gradient-complem-5b10870fdcaec1.4397657415278098079039.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Draw_1_black_line_svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Draw-1-black-line.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AaImage105" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AaImage105.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maxresdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="77705 (1) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\77705 (1) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
